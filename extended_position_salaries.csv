@@ -1,0 +1,21 @@
+Position,Level,Salary
+Business Analyst,1,45000
+Junior Consultant,2,50000
+Senior Consultant,3,60000
+Manager,4,80000
+Country Manager,5,110000
+Region Manager,6,150000
+Partner,7,200000
+Senior Partner,8,300000
+C-level,9,500000
+CEO,10,1000000
+Intern,11,30000
+Associate Analyst,12,38000
+Lead Consultant,13,70000
+Project Manager,14,90000
+Vice President,15,180000
+Director,16,250000
+Chief Strategy Officer,17,400000
+HR Manager,18,85000
+Finance Lead,19,120000
+Operations Head,20,200000
